@@ -1,4 +1,4 @@
-import type { Transport } from "@yernur/operator-ai";
+import type { Transport } from "@earendil-works/pi-ai";
 export interface CompactionSettings {
     enabled?: boolean;
     reserveTokens?: number;
